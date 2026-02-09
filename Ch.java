@@ -9,9 +9,3 @@ public class Ch
 
     }    
 }
-// create a table:item
-// fields:
-id: for eg 5,6,78
-name: for eg book, pen
-price: for eg 7.5,89,99.14
-category: for eg stationary
